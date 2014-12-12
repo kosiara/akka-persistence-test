@@ -6,6 +6,7 @@
 *.tm.epoch
 *.vim
 *-shim.sbt
+.idea
 /project/plugins/project
 project/boot
 target/
